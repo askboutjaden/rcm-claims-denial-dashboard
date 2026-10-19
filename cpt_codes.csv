@@ -1,0 +1,13 @@
+cpt_code,description,service_category,standard_charge
+99213,"Office visit, established, low",E/M,145
+99214,"Office visit, established, moderate",E/M,210
+99204,"Office visit, new, moderate",E/M,260
+97110,"Therapeutic exercise, 15 min",Therapy,62
+97140,"Manual therapy, 15 min",Therapy,58
+72148,MRI lumbar spine w/o contrast,Imaging,1150
+73721,MRI knee w/o contrast,Imaging,1050
+20610,"Joint injection, major joint",Procedure,240
+J0702,"Betamethasone injection, 3 mg",Drug,38
+J1745,"Infliximab injection, 10 mg",Specialty Drug,1450
+96413,"Chemo/infusion admin, first hour",Infusion,420
+29881,Knee arthroscopy w/ meniscectomy,Surgery,4800

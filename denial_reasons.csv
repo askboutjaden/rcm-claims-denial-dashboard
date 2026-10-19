@@ -1,0 +1,9 @@
+carc_code,description
+CO-16,Missing or invalid claim information
+CO-197,Prior authorization absent
+CO-50,Not medically necessary
+CO-29,Timely filing limit expired
+CO-27,Coverage terminated / eligibility
+CO-11,Diagnosis inconsistent with procedure
+CO-4,Modifier missing or invalid
+CO-18,Duplicate claim

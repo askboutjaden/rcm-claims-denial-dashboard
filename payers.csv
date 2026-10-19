@@ -1,0 +1,9 @@
+payer_id,payer_name,payer_type,avg_contract_days_to_pay
+P01,Blue Horizon Commercial,Commercial,28
+P02,Summit Health Commercial,Commercial,32
+P03,Keystone Commercial PPO,Commercial,45
+P04,Medicare Part B,Medicare,18
+P05,Sunshine Medicare Advantage,Medicare Advantage,52
+P06,Florida Medicaid,Medicaid,40
+P07,Coastal Medicaid MCO,Medicaid Managed Care,61
+P08,Self-Pay,Self-Pay,75
